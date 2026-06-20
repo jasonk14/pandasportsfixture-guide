@@ -1,2 +1,14 @@
 # pandasportsfixture-guide
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
